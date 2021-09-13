@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @smuktevi
 - 👀  I’m interested in Data Science.
-- 🌱  I’m currently learning how to explore, hypothesize, model, analyze, understand and visualize Big Data.
+- 🌱  I’m currently explore, hypothesize, model, analyze, and visualize Big Data.
 - 💞️  I’m looking to collaborate on more niche projects in either Computer Vision or NLP to learn more about these areas.
 - 📫  How to reach me: smuktevi609@gmail.com
 
