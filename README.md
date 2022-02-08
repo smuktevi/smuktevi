@@ -1,4 +1,4 @@
-![Infographic Resume](https://github.com/smuktevi/smuktevi/blob/main/Sai_InfoGraphicResume.gif)
+![Infographic Resume](https://github.com/smuktevi/smuktevi/blob/main/Sai_InfoGraphicResume (1).gif)
 
 <!---
 smuktevi/smuktevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
